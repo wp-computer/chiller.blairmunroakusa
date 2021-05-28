@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://help.blairmunroakusa.wp.computer/"
+baseurl = "https://helpblairmunroakusawpcomputer.netlify.app/"
 languageCode = "en-us"
 title = "Hugrid - Grid Theme For Hugo"
 theme = "hugrid"
