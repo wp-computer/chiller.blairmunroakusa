@@ -13,20 +13,21 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    author = "Pavel Kanyshev"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    title = "If you think inventing a time machine to help usher in the advent of world peace is a cool idea and worth taking seriously, then please support how you can."
+    subtitle = "Clearly, I am in need of some serious help. Choose the tile below for the mode of help that best suits your abilities. [**Click here to return to blairmunroakusa.wp.computer.**](https://blairmunroakusa.wp.computer)"
+    author = "Blair Munro"
+    description = "Help Blair invent a time machine."
+    keywords = ""
 
     # Body background color
-    bodybgcolor = "#f9f9f9"
+    bodybgcolor = "#ddd"
 
     # Preview container button text
-    buttontext = "Get the theme"
+    buttontext = "HELP!"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+footertext = "Copyright &copy; Blair Munro 2021 [**blairmunroakusa, LLC**](https://blairmunroakusa.wp.computer/), managed by [**World Peace Labs, inc**](https://worldpeacelabs.wp.computer/) :: generated using HUGO :: theme credit == [**Codrops**](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) & Developed by [**Gethugothemes**](https://gethugothemes.com) and [**aerohub**](https://github.com/aerohub/)"
+    #footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
