@@ -12,7 +12,7 @@ image = "images/full/universalpeacesquad.png"
 thumb = "images/thumbs/universalpeacesquad.png"
 alt = "Universal Peace Squad"
 description = "If you sponsor or contribute to the timemachine for peace, then you will be an official member of the Universal Peace Squad (being listed is optional, for privacy concerns). By joining the Universal Peace Squad, you will receive an official certificate of membership, which will include future voting rights. I intend to use pure democratic voting (one vote per member) to steer basic project decisions in the future. If you would like to join the Universal Peace Squad but have nothing to contribute right now, then you are welcome to make a pledge of support. A pledge will give you voting rights for trivial crowd polling outreach, but your certificate will not have a gold star. (The [HELP!] button will take you to the Universal Peace Squad webpage...listing all sponsors and contributors who have joined the Universal Peace Squad.)"
-url = ""
+url = "https://universalpeacesquad.wp.computer/"
 
 [[items]]
 title = "Open Collective"
