@@ -51,7 +51,7 @@ title = "CONTRIBUTE PRO BONO SERVICES"
 image = "images/full/probono.png"
 thumb = "images/thumbs/probono.png"
 alt = "contribute pro bono services"
-description = "I need personal help from professionals: therapy, medication management, legal counsel. I need business help from professionals: IP legal experts, other legal experts, webdesign experts, IT experts, PR experts, WE NEED ALL THE EXPERTS, REALLY.. (The [HELP!] button will open up your email client to send me an email about pro bono contributions.)"
+description = "I need personal help from professionals: therapy, medication management, *general* legal counsel. I need business help from professionals: IP legal experts, other legal experts, webdesign experts, IT experts, PR experts, WE NEED ALL THE EXPERTS, REALLY.. (The [HELP!] button will open up your email client to send me an email about pro bono contributions.)"
 url = "mailto:help.blairmunroakusa@wp.computer?subject=I'm interested in offering services pro bono!"
 
 [[items]]
