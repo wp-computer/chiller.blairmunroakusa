@@ -1,0 +1,72 @@
+[[items]]
+title = "all money in"
+image = "images/full/all$in.png"
+thumb = "images/thumbs/all$in.png"
+alt = "all money in"
+description = "My efforts are an all-money-in enterprise. What this means is that if I spend money on something, or on myself, then I make sure the expense in some way contributes directly to the time machine project. I am always working. (The [HELP!] button will open up your email client to send me a general inquiry about supporting the time machine for peace.)"
+url = "mailto:help.blairmunroakusa@wp.computer?subject=General Help Inquiry"
+
+[[items]]
+title = "Universal Peace Squad"
+image = "images/full/universalpeacesquad.png"
+thumb = "images/thumbs/universalpeacesquad.png"
+alt = "Universal Peace Squad"
+description = "If you sponsor or contribute to the timemachine for peace, then you will be an official member of the Universal Peace Squad (being listed is optional, for privacy concerns). By joining the Universal Peace Squad, you will receive an official certificate of membership, which will include future voting rights. I intend to use pure democratic voting (one vote per member) to steer basic project decisions in the future. If you would like to join the Universal Peace Squad but have nothing to contribute right now, then you are welcome to make a pledge of support. A pledge will give you voting rights for trivial crowd polling outreach, but your certificate will not have a gold star. (The [HELP!] button will take you to the Universal Peace Squad webpage...listing all sponsors and contributors who have joined the Universal Peace Squad.)"
+url = "https://universalpeacesquad.wp.computer/"
+
+[[items]]
+title = "Open Collective"
+image = "images/full/opencollective.png"
+thumb = "images/thumbs/opencollective.png"
+alt = "Open Collective"
+description = "Open collective is a transparent way to manage money from sponsors, donors, supporters, etc. If you provide me money for things, then I keep track of it and disclose exactly where incoming money goes within the time machine project. Open Collective is where you can support with one-time, or monthly contributions. (The [HELP!] button will take you to my Open Collective page."
+url = "https://opencollective.com/blairmunroakusa/"
+
+[[items]]
+title = "TIME"
+image = "images/full/time.png"
+thumb = "images/thumbs/time.png"
+alt = "TIME"
+description = "I don't have enough time to do all the things. If you would like to help out by donating your time in ways other than professional services, then please reach out! (The [HELP!] button will open up your email client to send me an email about time related donations.)"
+url = "mailto:help.blairmunroakusa@wp.computer?subject=I would like to contribute my time!"
+
+[[items]]
+title = "SPACE"
+image = "images/full/space.png"
+thumb = "images/thumbs/space.png"
+alt = "SPACE"
+description = "The Universal Peace Computer project depends on space to function optimally. I am looking for a large space central in Anchorage to serve as an office + studio + gallery. I am looking for warehouse space to build a materials library, and a community world piece computer reference library. I am looking for a private space to sleep. I am looking for space in a fully equipped shop. I am looking for a boardroom space for hosting diplomatic delegations. I am looking for a space that can be used to host large conferences. I am looking for a space to throw the coolest parties. (The [HELP!] button will open up your email client to send me an email about space related donations.)"
+url = "mailto:help.blairmunroakusa@wp.computer?subject=I have space I want to donate!"
+
+[[items]]
+title = "DONATE NON-MONEY"
+image = "images/full/donatenon$.png"
+thumb = "images/thumbs/donatenon$.png"
+alt = "DONATE NON-MONEY"
+description = "I need help with food and piece goods mainly. Art supplies are also welcome. (The [HELP!] button will open up your email client to send me an email to make non-money donations.)"
+url = "mailto:help.blairmunroakusa@wp.computer?subject=I'd like to donate food or art supplies!"
+
+[[items]]
+title = "CONTRIBUTE PRO BONO SERVICES"
+image = "images/full/probono.png"
+thumb = "images/thumbs/probono.png"
+alt = "contribute pro bono services"
+description = "I need personal help from professionals: therapy, medication management, *general* legal counsel. I need business help from professionals: IP legal experts, other legal experts, webdesign experts, IT experts, PR experts, WE NEED ALL THE EXPERTS, REALLY.. (The [HELP!] button will open up your email client to send me an email about pro bono contributions.)"
+url = "mailto:help.blairmunroakusa@wp.computer?subject=I'm interested in offering services pro bono!"
+
+[[items]]
+title = "PROVIDE FEEDBACK"
+image = "images/full/feedback.png"
+thumb = "images/thumbs/feedback.png"
+alt = "PROVIDE FEEDBACK"
+description = "Please provide feedback. (The [HELP!] button will open up your email client to send me a feedback email.)"
+url = "mailto:help.blairmunroakusa@wp.computer?subject=I have feedback for you!"
+
+[[items]]
+title = "venmo"
+image = "images/full/venmo.png"
+thumb = "images/thumbs/venmo.png"
+alt = "venmo"
+description = "Venmo is an easy way to throw me cash for things. If you want to throw me cash, then I will dedicate the money to play-related work expenses (like gas to go hiking and coffee and eating out, etc.) (The [HELP!] button will take you to my Venmo page.)"
+url = "https://venmo.com/blairmunroakusa/"
+

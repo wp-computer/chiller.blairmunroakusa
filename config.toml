@@ -13,8 +13,8 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "If you think inventing a time machine for peace (to accelerate the advent of universal peace) is an important idea worth taking seriously, then please support how you can. This is clearly not going to be a 'me' enterprise, but the amount of work it will take to get this project rolling (to coordinate help|partnership|networking|etc) at scale is staggering. I can't do it alone, and I need to devote my undivided attention to the effort."
-    subtitle = "(Clearly, I am in need of some serious help. People tell me I am bad at asking for help. They are right. That's why I am trying all approaches of asking for help, until I find the style and avenues that suit me best. Choose the tile below to explore the mode of help that best suits your abilities|wants. Your choice serves as the default help in the form of data that I need to make the best informed decision moving forward in the help-me|self-promotion direction. Thank you for your considerations.) [**Click here to return to blairmunroakusa.wp.computer.**](https://blairmunroakusa.wp.computer)"
+    title = "I am looking for sponsors, and general project support. Email me at help.blairmunroakusa@wp.computer"
+    subtitle = "[**Click here to return to blairmunroakusa.wp.computer.**](https://blairmunroakusa.wp.computer)"
     author = "Blair Munro"
     description = "Help Blair invent a time machine."
     keywords = ""
