@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://help.blairmunroakusa.wp.computer/post/</loc>
-    <lastmod>2021-06-01T15:09:57-08:00</lastmod>
+    <loc>https://destress.blairmunroakusa.wp.computer/categories/</loc>
   </url><url>
-    <loc>https://help.blairmunroakusa.wp.computer/categories/</loc>
+    <loc>https://destress.blairmunroakusa.wp.computer/</loc>
   </url><url>
-    <loc>https://help.blairmunroakusa.wp.computer/</loc>
-  </url><url>
-    <loc>https://help.blairmunroakusa.wp.computer/tags/</loc>
+    <loc>https://destress.blairmunroakusa.wp.computer/tags/</loc>
   </url>
 </urlset>
