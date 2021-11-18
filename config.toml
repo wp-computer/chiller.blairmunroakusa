@@ -13,7 +13,7 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Hi, check out my killer webapp. In the event you need to destress, I recommend choosing one (or many) of the following links (colored tiles) below for peaceful ambient noise. [MOST DESKTOP VERSIONS ONLY: Intensity scales roughly in proportion to the number of tabs open. Mix ups make for interesting destress combo attacks]:"
+    title = "Hi, check out my chiller webapp. In the event you need to destress, I recommend choosing one (or many) of the following links (colored tiles) below for peaceful ambient noise. [MOST DESKTOP VERSIONS ONLY: Intensity scales roughly in proportion to the number of tabs open. Mix ups make for interesting destress combo attacks]:"
     subtitle = ""
     author = "Blair Munro"
     description = "Help Blair invent a time machine."
