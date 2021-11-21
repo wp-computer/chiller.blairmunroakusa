@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://destress.blairmunroakusa.wp.computer/"
+baseurl = "https://chiller.blairmunroakusa.wp.computer/"
 languageCode = "en-us"
 title = "chill"
 theme = "hugrid"
@@ -13,7 +13,7 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Hi, check out my chiller webapp. In the event you need to destress, I recommend choosing one (or many) of the following links (colored tiles) below for peaceful ambient noise. [MOST DESKTOP VERSIONS ONLY: Intensity scales roughly in proportion to the number of tabs open. Mix ups make for interesting destress combo attacks]:"
+    title = "Hi, welcome to my chiller webapp. This is jusr for fun. In the event you need to destress, I recommend choosing one (or many) of the following links (colored tiles) below for peaceful ambient noise. [MOST DESKTOP VERSIONS ONLY: Intensity scales roughly in proportion to the number of tabs open. Mix ups make for interesting destress combo attacks]:"
     subtitle = ""
     author = "Blair Munro"
     description = "Help Blair invent a time machine."
@@ -23,7 +23,7 @@ publishdir = "public"
     bodybgcolor = "#ddd"
 
     # Preview container button text
-    buttontext = "chillout button"
+    buttontext = "chillout"
 
     # Footer text
 footertext = "Copyright &copy; Blair Munro 2021 [**blairmunroakusa, LLC**](https://blairmunroakusa.wp.computer/), managed by [**World Peace Labs, inc**](https://worldpeacelabs.wp.computer/) :: generated using HUGO :: theme credit == [**Codrops**](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) & Developed by [**Gethugothemes**](https://gethugothemes.com) and [**aerohub**](https://github.com/aerohub/)"
