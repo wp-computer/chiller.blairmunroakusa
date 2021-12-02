@@ -48,9 +48,3 @@ title = "swamp"
 image = "images/full/brown.png"
 thumb = "images/thumbs/brown.png"
 url = "https://www.youtube.com/watch?v=h6dN65sFQBc"
-[[items]]
-title = "sweeping alarm"
-image = "images/full/nuclear.png"
-thumb = "images/thumbs/nuclear.png"
-url = "https://www.youtube.com/watch?v=gnrgCtb4dKs&list=RDLVpehWNzZdjz8&index=4"
-
