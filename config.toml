@@ -26,7 +26,7 @@ publishdir = "public"
     buttontext = "chillout"
 
     # Footer text
-footertext = "Copyright &copy; Blair Munro 2021 [**blairmunroakusa, LLC**](https://blairmunroakusa.wp.computer/), managed by [**World Peace Labs, inc**](https://worldpeacelabs.wp.computer/) :: generated using HUGO :: theme credit == [**Codrops**](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) & Developed by [**Gethugothemes**](https://gethugothemes.com) and [**aerohub**](https://github.com/aerohub/)"
+footertext = "Copyright &copy; Blair Munro 2021 [**blairmunroakusa, LLC**](https://blairmunroakusa.wp.computer/), managed by [**World Peace Labs, inc**](https://worldpeacelabs.wp.computer/) :: generated using HUGO :: theme credit == Hugrid, [**Codrops**](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) & Developed by [**Gethugothemes**](https://gethugothemes.com) and [**aerohub**](https://github.com/aerohub/)"
     #footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
 
     # add extra-css
